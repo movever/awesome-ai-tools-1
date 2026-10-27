@@ -1313,6 +1313,7 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
 - [UnSoloMind.com](https://unsolomind.com) – Knowledge base AI assistant
 - [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time
 - [SummaryTube.com](https://summarytube.com) – AI Youtube Video Summarizer
+- [YouTube Summarizer](https://youtubesummarizer.org) - Free YouTube video summarizer: paste a link, get a clear summary with key points. Free to try, no download.
 - [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time
 - [helloandy.net AI Tools](https://helloandy.net) – Free AI writing and agent tools: Text Auditor, Humanizer, CLAUDE.md Writer, SKILL.md Generator, AI Writing Coach, and more. No account required.
 - [7emoji](https://7emoji.fun) - AI emoji translator: paste text, get up to 10 ranked emoji suggestions to copy. Free, no sign-up.
