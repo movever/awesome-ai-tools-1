@@ -1317,6 +1317,8 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
 - [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time
 - [helloandy.net AI Tools](https://helloandy.net) – Free AI writing and agent tools: Text Auditor, Humanizer, CLAUDE.md Writer, SKILL.md Generator, AI Writing Coach, and more. No account required.
 - [7emoji](https://7emoji.fun) - AI emoji translator: paste text, get up to 10 ranked emoji suggestions to copy. Free, no sign-up.
+- [Odluck](https://odluck.com) - Free online random generators for numbers, passwords, colors, cards, animals, and countries.
+- [Lompu](https://lompu.com) - Build custom random pickers and flashcards from your own lists—save and share in seconds.
 - [IsWeber](https://isweber.com) - Agent content pipeline for creators: topic to outline, script, and titles. Coming soon with live preview.
 - [Html2MP4](https://html2mp4.com) - Create MP4 videos from HTML, prompts, templates, and websites online.
 - [AI Text Auditor](https://helloandy.net/ai-text-auditor/) – Free tool that scores text against 28 AI writing patterns and returns a risk score
