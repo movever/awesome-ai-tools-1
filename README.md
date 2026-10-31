@@ -1319,6 +1319,7 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
 - [7emoji](https://7emoji.fun) - AI emoji translator: paste text, get up to 10 ranked emoji suggestions to copy. Free, no sign-up.
 - [Odluck](https://odluck.com) - Free online random generators for numbers, passwords, colors, cards, animals, and countries.
 - [Lompu](https://lompu.com) - Build custom random pickers and flashcards from your own lists—save and share in seconds.
+- [PuzzlePave](https://puzzlepave.com) - Free packing / polyomino puzzle online: rotate blocks, pave an 8×8 board across 100 levels—no download or sign-up.
 - [IsWeber](https://isweber.com) - Agent content pipeline for creators: topic to outline, script, and titles. Coming soon with live preview.
 - [Html2MP4](https://html2mp4.com) - Create MP4 videos from HTML, prompts, templates, and websites online.
 - [AI Text Auditor](https://helloandy.net/ai-text-auditor/) – Free tool that scores text against 28 AI writing patterns and returns a risk score
